@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">educational app</string>
+    <string name="question_one">1. The decoded instruction is stored in:</string>
+    <string name="question_one_a">IR</string>
+    <string name="question_one_b">PC</string>
+    <string name="question_two">2. Which registers can interact with the secondary storage?</string>
+    <string name="question_two_a">PC</string>
+    <string name="question_two_b">MAR</string>
+    <string name="question_three">3. The internal Components of the processor are connected by:</string>
+    <string name="question_three_a">Processor bus</string>
+    <string name="question_three_b">Rambus</string>
+    <string name="question_four">4. These factors affect transmission rate in DSL:</string>
+    <string name="question_four_a">twisted-pair line</string>
+    <string name="question_four_b">electrical interfernece</string>
+    <string name="question_four_c">Shadow fading</string>
+    <string name="question_five">5. Which one of the following is the multiple access protocol for channel access control?</string>
+    <string name="question_five_a">CSMA/CD</string>
+    <string name="question_five_b">ALOHA</string>
+    <string name="question_five_c">CSMA/CA</string>
+    <string name="question_six">6. Which one of the following task is not done by data link layer?</string>
+    <string name="best_wishes">Best Wishes</string>
+    <string name="submit">Submit</string>
+
+
+
+
+</resources>
